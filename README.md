@@ -12,10 +12,6 @@ Esse projeto serviu de base para aprimoramento de conceito importantes do Javasc
 - CSS
 - Vanilla Javascript
 
-## Pendências
-- Edição de texto do item
-- Drag'n drop para ordenação
-
 ## License
 MIT
 
